@@ -1,7 +1,7 @@
 <?php
 
 // CouchDB settings.
-define("COUCHDB_HOST","http://127.0.0.1");
+define("COUCHDB_HOST","http://greenviper.iriscouch.com");
 define("COUCHDB_PORT","5984");
 define("COUCHDB_VIEW","ready");
 
